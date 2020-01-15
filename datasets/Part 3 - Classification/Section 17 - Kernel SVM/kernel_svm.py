@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 18 19:45:15 2019
-
-@author: juangabriel
-"""
 
 # Kernel SVM
 
